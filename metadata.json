@@ -1,0 +1,6 @@
+{
+  "name": "Drátěná krychle – Test prostorové představivosti",
+  "description": "Aplikace pro trénink a testování prostorové 3D představivosti na základě pravoúhlých průmětů (nárys a půdorys) lomené čáry v krychli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
